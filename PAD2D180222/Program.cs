@@ -14,7 +14,7 @@ namespace PAD2D180222
 
             char c = ('S');
 
-            while (c == 'S') {
+            while (c == '') {
                
                 int[]baaa ={3,4,5 };
                 int blblblb = int.Parse(Console.ReadLine());
