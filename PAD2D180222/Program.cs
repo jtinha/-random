@@ -37,7 +37,7 @@ namespace PAD2D180222
                     c = char.Parse(Console.ReadLine());
                     Console.Clear();
                 }
-                else if (blblblb == 8)
+                else if (blblblb == 9)
                 {
                     Console.WriteLine("ues");
                     Console.WriteLine("Mais uma mensagen");
